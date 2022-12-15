@@ -1,0 +1,25 @@
+#myTable{
+    display: none;
+}
+input{
+    padding: 10px
+}
+button{
+    padding: 10px;
+    border-radius: 5px;
+}
+tr{
+    padding: 10px;
+}
+th{
+    color: red;
+    
+}
+#myTable{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+    color: rgb(255, 0, 251);
+}
+#myTable{
+    padding: 15px;
+}
